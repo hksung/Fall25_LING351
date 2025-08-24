@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-12-11
+date: 2025-12-12
 description: 'Final'
 hide_from_announcments: true
 ---
