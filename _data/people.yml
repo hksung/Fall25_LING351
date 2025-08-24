@@ -1,0 +1,9 @@
+instructors:
+  - name: Hakyung Sung
+    profile_pic: /_images/pp/sung.jpg
+    webpage: https://hksung.github.io/
+
+teaching_assistants:
+  - name: AI
+    profile_pic: /_images/pp/ai.jpg
+    #webpage: https://en.wikipedia.org/wiki/Ron_Weasley
