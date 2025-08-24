@@ -3,8 +3,8 @@ course_name: LING 351 Language Technology and Large Language Models
 course_description: This course explores the interaction between language and technology, from the invention of writing systems to modern tools that process and generate language using large language models. While not a technical course in natural language processing (NLP), it may serve as a potential gateway to more implementation-focused studies, as students will learn basic text processing skills in Python. The primary focus is on the linguistic and conceptual understanding underlying language technologies.
 course_semester: "Fall 2025"
 
-baseurl: "/LING351-LT" # the subpath of your site, e.g. /blog/
-url: "http://hksung-tch.github.io/" # the base hostname & protocol for your site
+baseurl: "/Fall25_LING351" # the subpath of your site, e.g. /blog/
+url: "http://hksung.github.io/" # the base hostname & protocol for your site
 
 schoolname: "RIT"
 #schoolurl: "https://www.rit.edu/liberalarts/"
