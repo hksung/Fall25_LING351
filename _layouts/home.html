@@ -50,7 +50,7 @@ layout: default
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Grader</h2>
-                {% for ta in site.data.people.grader %}
+                {% for ta in site.data.people.graders%}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
