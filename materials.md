@@ -6,14 +6,11 @@ permalink: /materials/
 
 ## Book
 
-- Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit* [NLTK].  
-- Glass, I., Dickinson, M., Brew, C., & Meurers, D. (2024). *Language and Computers* (2nd edition) [LC].
+- Bird, S., Klein, E., & Loper, E. (2009). *Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit* [NLTK](https://tjzhifei.github.io/resources/NLTK.pdf).  
+- Glass, I., Dickinson, M., Brew, C., & Meurers, D. (2024). *Language and Computers* (2nd edition) [LC](https://langsci-press.org/catalog/book/454).
 
 
 ## Papers
-
-***Notes.*** These are advanced academic papers, so it’s normal not to understand everything—focus on key sections and approach them with a growth mindset. Feel free to choose other articles beyond this list, but please talk to me first.
-
 
 ### 1. NLP-humanities
 - Reddy, S., & Knight, K. (2011). What we know about the Voynich manuscript. *Proceedings of the 5th ACL-HLT workshop on language technology for cultural heritage, social sciences, and humanities* (pp. 78-86). [PDF](https://aclanthology.org/W11-1511.pdf)  
@@ -31,7 +28,7 @@ permalink: /materials/
 - Luo, Y., Gligorić, K., & Jurafsky, D. (2024). Othering and low status framing of immigrant cuisines in US restaurant reviews and large language models. *Proceedings of the International AAAI Conference on Web and Social Media* (Vol. 18, pp. 985-998). [PDF](https://arxiv.org/pdf/2307.07645)  
 - Liu, Z., Huang, D., Huang, K., Li, Z., & Zhao, J. (2021). Finbert: A pre-trained financial language representation model for financial text mining. *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence* (pp. 4513-4519). [PDF](https://www.ijcai.org/proceedings/2020/0622.pdf)  
 
-## 3. NLP-education
+### 3. NLP-education
 - Sung, H., Csuros, K., & Sung, M. C. (2025). Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features. *arXiv preprint arXiv:2506.09021*. [PDF](https://arxiv.org/pdf/2506.09021)  
 - Bannò, S., Knill, K., & Gales, M. (2025). Exploiting the English Vocabulary Profile for L2 word-level vocabulary assessment with LLMs. *arXiv preprint arXiv:2506.02758*. [PDF](https://arxiv.org/pdf/2506.02758)  
 - Han, J., & Choi, J. D. (2025). Beyond Linear Digital Reading: An LLM-Powered Concept Mapping Approach for Reducing Cognitive Load. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.58.pdf)  
@@ -39,8 +36,10 @@ permalink: /materials/
 - Schmalz, V. J., & Tack, A. (2025). Can GPTZero’s AI Vocabulary Distinguish Between LLM-Generated and Student-Written Essays?. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.71.pdf)  
 
 
-## 4. NLP-investigation on LLMs
+### 4. NLP-investigation on LLMs
 - Bender, E. M., & Koller, A. (2020). Climbing towards NLU: On meaning, form, and understanding in the age of data. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics* (pp. 5185-5198). [PDF](https://aclanthology.org/2020.acl-main.463.pdf)  
 - Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big?🦜. *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (pp. 610-623). [PDF](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)  
 - Gururangan, S., Card, D., Dreier, S., Gade, E., Wang, L., Wang, Z., ... & Smith, N. A. (2022). Whose Language Counts as High Quality? Measuring Language Ideologies in Text Data Selection. *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing* (pp. 2562-2580). [PDF](https://aclanthology.org/2022.emnlp-main.165.pdf)  
 - Lappin, S. (2024). Assessing the strengths and weaknesses of large language models. *Journal of Logic, Language and Information, 33*(1), 9-20. [PDF](https://link.springer.com/content/pdf/10.1007/s10849-023-09409-x.pdf)  
+
+***Notes.*** These are advanced academic papers, so it’s normal not to understand everything—focus on key sections and approach them with a growth mindset. Feel free to choose other articles beyond this list, but please talk to me first.
