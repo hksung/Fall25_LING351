@@ -5,7 +5,7 @@ title: 1. Introduction and Encoding
 tldr: "Intro to lecture"
 thumbnail: /static_files/presentations/lec1.png
 links: 
-    - url: https://google.com
+    - url: /Slides/082625_Lecture1_Intro_Encoding.pdf
       name: slides
 ---
 **Suggested Readings:**
