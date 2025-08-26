@@ -28,7 +28,7 @@ permalink: /materials/
 - Luo, Y., Gligorić, K., & Jurafsky, D. (2024). Othering and low status framing of immigrant cuisines in US restaurant reviews and large language models. *Proceedings of the International AAAI Conference on Web and Social Media* (Vol. 18, pp. 985-998). [PDF](https://arxiv.org/pdf/2307.07645)  
 - Liu, Z., Huang, D., Huang, K., Li, Z., & Zhao, J. (2021). Finbert: A pre-trained financial language representation model for financial text mining. *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence* (pp. 4513-4519). [PDF](https://www.ijcai.org/proceedings/2020/0622.pdf)  
 
-### 3. NLP-education
+### 3. NLP-language studies
 - Sung, H., Csuros, K., & Sung, M. C. (2025). Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features. *arXiv preprint arXiv:2506.09021*. [PDF](https://arxiv.org/pdf/2506.09021)  
 - Bannò, S., Knill, K., & Gales, M. (2025). Exploiting the English Vocabulary Profile for L2 word-level vocabulary assessment with LLMs. *arXiv preprint arXiv:2506.02758*. [PDF](https://arxiv.org/pdf/2506.02758)  
 - Han, J., & Choi, J. D. (2025). Beyond Linear Digital Reading: An LLM-Powered Concept Mapping Approach for Reducing Cognitive Load. [PDF](https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.58.pdf)  
