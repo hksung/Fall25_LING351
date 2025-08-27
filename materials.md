@@ -18,7 +18,8 @@ permalink: /materials/
 - Brooke, J., Hammond, A., & Hirst, G. (2015). GutenTag: an NLP-driven tool for digital humanities research in the Project Gutenberg corpus. *Proceedings of the fourth workshop on computational linguistics for literature* (pp. 42-47). [PDF](https://aclanthology.org/W15-0705.pdf)
 - Schofield, A., & Mehr, L. (2016). Gender-distinguishing features in film dialogue. *Proceedings of the Fifth Workshop on Computational Linguistics for Literature* (pp. 32-39). [PDF](https://aclanthology.org/W16-0204.pdf)  
 - Öhman, E., Bizzoni, Y., Moreira, P. F., & Nielbo, K. (2024). EmotionArcs: Emotion arcs for 9,000 literary texts. *Proceedings of the 8th joint SIGHUM workshop on computational linguistics for cultural heritage, social sciences, humanities and literature (LaTeCH-CLfL 2024)* (pp. 51-66). [PDF](https://aclanthology.org/2024.latechclfl-1.7.pdf)  
-- Luo, Y., Jurafsky, D., & Levin, B. (2019). From insanely jealous to insanely delicious: Computational models for the semantic bleaching of English intensifiers. *Proceedings of the 1st international workshop on computational approaches to historical language change* (pp. 1-13). [PDF](https://aclanthology.org/W19-4701.pdf)  
+- Luo, Y., Jurafsky, D., & Levin, B. (2019). From insanely jealous to insanely delicious: Computational models for the semantic bleaching of English intensifiers. *Proceedings of the 1st international workshop on computational approaches to historical language change* (pp. 1-13). [PDF](https://aclanthology.org/W19-4701.pdf)
+- Tapo, A. A., Coulibaly, N., Diallo, S., Diarra, S., Homan, C. M., Keita, M. K., & Leventhal, M. (2025). GAIfE: Using GenAI to Improve Literacy in Low-resourced Settings. *Findings of the Association for Computational Linguistics: NAACL 2025* (pp. 7914-7929). [PDF](https://aclanthology.org/2025.findings-naacl.442.pdf)
 
 
 ### 2. NLP-social sciences
