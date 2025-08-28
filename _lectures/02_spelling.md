@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-08-28
-title: 2. Writer's aids Spelling errors
+title: 2. Spelling errors
 tldr: "spelling errors"
 thumbnail: /static_files/presentations/lec2.png
 links: 
