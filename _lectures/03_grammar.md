@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-09-02
-title: 3. Grammar
+title: 3. Grammar checkers
 tldr: "Grammar"
 thumbnail: /static_files/presentations/lec3.png
 links: 
