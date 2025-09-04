@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-02
+date: 2025-09-04
 title: 4. Python Tutorial 1
 tldr: "Tutorial1"
 thumbnail: /static_files/presentations/lab1.png
