@@ -14,3 +14,6 @@ links:
 ---
 **Review Tutorial 1:**
 - <a href="https://colab.research.google.com/drive/1smylGpHH6cg5UZ2E253lZsgjy9OBxa60?usp=sharing" target="_blank" rel="noopener noreferrer">Hakyung's answer for Tutorial 1</a>
+
+**Tutorial:**
+- <a href="https://hksung.github.io/Fall25_PythonTutorial/5.html" target="_blank" rel="noopener noreferrer">Tokenization</a>
