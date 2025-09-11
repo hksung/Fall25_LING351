@@ -17,3 +17,4 @@ links:
 
 **Tutorial:**
 - <a href="https://hksung.github.io/Fall25_PythonTutorial/5.html" target="_blank" rel="noopener noreferrer">Tokenization, Lemmatization, etc.</a>
+- <a href="https://hksung.github.io/Fall25_PythonTutorial/6.html" target="_blank" rel="noopener noreferrer">Concordance</a>
