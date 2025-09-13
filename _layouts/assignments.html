@@ -5,8 +5,12 @@ layout: page
 {{ content }}
 <ul id="archive">
 {% for asg in site.assignments %}
-  <li class="archiveposturl" style="background: transparent">
-    <a href="{{ asg.url | prepend: site.baseurl }}">{{ asg.title }}</a>
-  </li>
+      <li class="archiveposturl" style="background: transparent">
+        <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+  {% if asg.due_event %}
+    Due: {{ asg.due_event.date | date: "%Y-%m-%d %H:%M" }}
+  {% endif %}
+</strong>
 {% endfor %}
 </ul>
