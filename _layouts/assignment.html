@@ -9,14 +9,6 @@ title: page.title
     <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
   </header>
 
-<div>
-  {% if page.due_event %}
-  <span style="font-weight: bold">
-    Due Date: {{ page.due_event.date | date: "%Y-%m-%d %H:%M" }}
-  </span>
-  {% endif %}
-</div>
-
   <br />
   <article class="post-content">
     {{ content }}
