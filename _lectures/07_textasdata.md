@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-09
+date: 2025-09-16
 title: 7. Text as data
 tldr: "Text as datall"
 thumbnail: /static_files/presentations/lec7.png
