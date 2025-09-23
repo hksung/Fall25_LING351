@@ -10,4 +10,4 @@ links:
     
 ---
 **Suggested Readings:**
-- LC, Chapter 4
+- LC, Chapter 4.1
