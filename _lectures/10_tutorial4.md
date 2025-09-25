@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-09-25
-title: 10. Python: Topic modeling, Word2Vec
+title: 10. Python Topic modeling Word2Vec
 tldr: "tmwv"
 thumbnail: /static_files/presentations/lab10.png
 links:
