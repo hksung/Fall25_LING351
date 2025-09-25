@@ -3,7 +3,7 @@ type: lecture
 date: 2025-09-25
 title: 10. Lab 4 Building dependency parser 2
 tldr: "dependency parser 2"
-thumbnail: /static_files/presentations/lab1.png
+thumbnail: /static_files/presentations/lab10.png
 links:
   - name: slides
     url: /Slides/092525_Lecture10_TopicWord2Vec.pdf
