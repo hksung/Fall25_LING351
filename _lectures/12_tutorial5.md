@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-2
-title: 10. Python Sentiment analysis
+title: 12. Python Sentiment analysis
 tldr: "sa"
 thumbnail: /static_files/presentations/lab12.png
 links:
