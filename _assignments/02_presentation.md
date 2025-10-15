@@ -3,10 +3,6 @@ type: assignment
 date: 2025-10-28T23:59:00+3:30
 title: '2. Presentation guidelines'
 
-due_event: 
-    type: due
-    date: 2025-12-02T23:59:00+3:30
-    description: '2. Presentation guidelines'
 ---
 Each group should present two research papers related to language and technology in humanities, social sciences, language education, or large language models. This is a graded assignment: 10 points total * 2 (10% of final grade).
 
