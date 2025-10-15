@@ -1,14 +1,14 @@
 ---
 type: assignment
 date: 2025-11-14T23:59:00+3:30
-title: '3. Assignment guidelines'
+title: '3. Assignment'
 
 due_event: 
     type: due
     date: 2025-12-05T23:59:00+3:30
-    description: '3. Assignment guidelines'
+    description: '3. Assignment'
 ---
-After each presentation round (Nov 14 & Dec 5), students will submit their presentation slides (PDF with quiz questions) and a short written reflection. This is a graded assignment: 10 points total * 2 (20% of final grade).
+After each presentation round (Nov 14 & Dec 5), students will individually submit their group presentation slides (PDF with quiz questions) and a written reflection. This is a graded assignment: 10 points total * 2 (20% of final grade).
 
 {% assign pdf = '/Files/Assignment_Guidelines.pdf' %}
 
