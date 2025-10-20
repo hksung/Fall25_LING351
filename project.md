@@ -11,7 +11,7 @@ Each group selected at least two papers related to their interests in the humani
 
 ---
 
-# Presentation schedule
+# ⚪️ Presentation schedule
 
 | **Date** | **Presenter (Paper)** | **Short Title** | **Group** | **Slides** |
 |-----------|-----------------------|------------------|-----------|------------|
