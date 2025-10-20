@@ -8,6 +8,7 @@ permalink: /project/
 
 This page showcases the papers and presentation slides that each group presented at the end of the course.
 Each group selected at least two papers related to their interests in the humanities, social sciences, language studies or education, and LLMs.
+
 ---
 
 # Presentation schedule
