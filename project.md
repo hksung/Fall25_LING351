@@ -13,7 +13,7 @@ Each group selected at least two papers related to their interests in the humani
 
 # Presentation schedule
 
-| **Date** | **Presenter (Paper)** | **Short Title** | **Group** | **Slide** |
+| **Date** | **Presenter (Paper)** | **Short Title** | **Group** | **Slides** |
 |-----------|-----------------------|------------------|-----------|------------|
 | 10/28 | Abby (<a href="http://aclanthology.org/W15-0705.pdf" target="_blank">Brooke et al., 2015</a>) | *NLP Tool for Digital Humanities (GutenTag)* | 1 | *will be added* |
 | 10/28 | Alex (<a href="https://arxiv.org/pdf/2506.09021" target="_blank">Sung et al., 2025</a>) | *Human vs. LLM Proofreading in L2 Writing* | 2 | *will be added* |
