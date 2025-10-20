@@ -10,8 +10,9 @@ This page showcases the papers and presentation slides that each group presented
 Each group selected at least two papers related to their interests in the humanities, social sciences, language studies or education, and LLMs.
 
 ---
+<br><br>
 
-# ⚪️ Presentation schedule
+# Presentation schedule
 
 | **Date** | **Presenter (Paper)** | **Short Title** | **Group** | **Slides** |
 |-----------|-----------------------|------------------|-----------|------------|
