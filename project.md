@@ -22,7 +22,7 @@ Each group selected at least two papers related to their interests in the humani
 | 10/30 | Liam (<a href="https://www.ijcai.org/proceedings/2020/0622.pdf" target="_blank">Liu et al., 2021</a>) | *FinBERT: Financial Language Model* | 6 | *will be added* |
 | 11/4 | Jaidan (<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.1702413114" target="_blank">Voigt et al., 2017</a>) | *Racial Disparities in Police Respect* | 3 | *will be added* |
 | 11/4 | Vanny (<a href="https://aclanthology.org/W11-1511.pdf" target="_blank">Reddy & Knight, 2011</a>) | *Decoding the Voynich Manuscript* | 4 | *will be added* |
-| 11/6 | Sam (<a href="http://aclanthology.org/2023.calcs-1.5/" target="_blank">Yong et al., 2023</a>) | *Prompting LLMs for Code-Mixing* | 7 | *will be added* |
+| 11/6 | Sam (<a href="https://aclanthology.org/2024.lrec-main.565.pdf/" target="_blank">Huzaifah et al., 2024</a>) | *Evaluating Code-Switching with LLMs* | 7 | *will be added* |
 | 11/6 | Jackie (<a href="https://aclanthology.org/2024.latechclfl-1.7.pdf" target="_blank">Öhman et al., 2024</a>) | *Emotion Arcs in Literary Texts* | 8 | *will be added* |
 | 11/11 | Jake (<a href="https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.71.pdf" target="_blank">Schmalz & Tack, 2025</a>) | *Detecting AI-Written Essays (GPTZero)* | 9 | *will be added* |
 | 11/13 | Westley (<a href="https://aclanthology.org/W16-0204.pdf" target="_blank">Schofield & Mehr, 2016</a>) | *Gender Features in Film Dialogue* | 1 | *will be added* |
