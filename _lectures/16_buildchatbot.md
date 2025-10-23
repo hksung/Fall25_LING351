@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-10-23
 title: 16. Python Building chatbot
-tldr: "sa"
+tldr: "bc"
 thumbnail: /static_files/presentations/lab16.png
 links:
   - name: slides
