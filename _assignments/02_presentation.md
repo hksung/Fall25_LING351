@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-10-28T23:59:00+3:30
+date: 2025-10-27T23:59:00+3:30
 title: '2. Group presentation'
 
 due_event: 
