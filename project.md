@@ -20,8 +20,8 @@ Each group selected at least two papers related to their interests in the humani
 | 10/28 | Alex (<a href="https://arxiv.org/pdf/2506.09021" target="_blank">Sung et al., 2025</a>) | *Human vs. LLM Proofreading in L2 Writing* | 2 | [slides](./Files/student_presentation/2_Alex_LLMProofreading_102825.pdf) |
 | 10/30 | Jeremiah (<a href="https://aclanthology.org/2025.bea-1.45.pdf" target="_blank">Bannò et al., 2025</a>) | *L2 Vocabulary Assessment Using LLMs* | 5 | [slides](./Files/student_presentation/3_Jeremiah_L2Voc_103025.pdf) |
 | 10/30 | Liam (<a href="https://www.ijcai.org/proceedings/2020/0622.pdf" target="_blank">Liu et al., 2021</a>) | *FinBERT: Financial Language Model* | 6 | [slides](./Files/student_presentation/4_Liam_FinBERT_103025.pdf)  |
-| 11/4 | Jaidan (<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.1702413114" target="_blank">Voigt et al., 2017</a>) | *Racial Disparities in Police Respect* | 3 | *will be added* |
-| 11/4 | Vanny (<a href="https://aclanthology.org/W11-1511.pdf" target="_blank">Reddy & Knight, 2011</a>) | *Decoding the Voynich Manuscript* | 4 | *will be added* |
+| 11/4 | Jaidan (<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.1702413114" target="_blank">Voigt et al., 2017</a>) | *Racial Disparities in Police Respect* | 3 | [slides](./Files/student_presentation/5_Jaidan_Police_110425.pdf) |
+| 11/4 | Vanny (<a href="https://aclanthology.org/W11-1511.pdf" target="_blank">Reddy & Knight, 2011</a>) | *Decoding the Voynich Manuscript* | 4 | [slides](./Files/student_presentation/6_Vanny_Voynish_110425.pdf) |
 | 11/6 | Sam (<a href="https://aclanthology.org/2024.lrec-main.565.pdf/" target="_blank">Huzaifah et al., 2024</a>) | *Evaluating Code-Switching with LLMs* | 7 | *will be added* |
 | 11/6 | Jackie (<a href="https://aclanthology.org/2024.latechclfl-1.7.pdf" target="_blank">Öhman et al., 2024</a>) | *Emotion Arcs in Literary Texts* | 8 | *will be added* |
 | 11/11 | Jake (<a href="https://aclanthology.org/anthology-files/pdf/bea/2025.bea-1.71.pdf" target="_blank">Schmalz & Tack, 2025</a>) | *Detecting AI-Written Essays (GPTZero)* | 9 | *will be added* |
