@@ -1,6 +1,6 @@
 ---
 type: presentation
-date: 2025-10-30
+date: 2025-11-06
 description: 'Student presentation 7, 8'
 hide_from_announcments: true
 ---
