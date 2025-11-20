@@ -30,7 +30,7 @@ Each group selected at least two papers related to their interests in the humani
 | 11/18 | Jollie (<a href="https://aclanthology.org/2025.bea-1.66.pdf" target="_blank">Rezayi et al., 2025</a>) | *Automated Scoring of Communication Skills* | 5 | [slides](./Files/student_presentation/3_Jollie_AutoScoring_111825.pdf) |
 | 11/18 | Disha (<a href="https://arxiv.org/pdf/2307.07645" target="_blank">Luo et al., 2024</a>) | *Othering and Status in Restaurant Reviews* | 6 | [slides](./Files/student_presentation/4_Disha_RestaurantReviews_111825.pdf) |
 | 11/20 | Ella (<a href="https://cdn.aaai.org/ojs/14976/14976-28-18495-1-2-20201228.pdf" target="_blank">Horne & Adali, 2017</a>) | *Fake News vs. Real News Linguistics* | 3 | [slides](./Files/student_presentation/5_Ella_FakeNews_112025.pdf)  |
-| 11/20 | Dag (<a href="https://dl.acm.org/doi/pdf/10.1145/3442188.3445922" target="_blank">Bender et al., 2021</a>) | *The Dangers of Stochastic Parrots* | 4 | *will be added* |
+| 11/20 | Dag (<a href="https://dl.acm.org/doi/pdf/10.1145/3442188.3445922" target="_blank">Bender et al., 2021</a>) | *The Dangers of Stochastic Parrots* | 4 | [slides](./Files/student_presentation/6_Dag_Parrot_112025.pdf)|
 | 11/25 | Philip (<a href="https://aclanthology.org/2025.findings-naacl.442.pdf" target="_blank">Tapo et al., 2025</a>) | *GenAI for Literacy in Low-Resource Settings* | 9 | *will be added* |
 | 12/2 | Zara (<a href="https://aclanthology.org/W19-4701.pdf" target="_blank">Luo et al., 2019</a>) | *Semantic Bleaching of English Intensifiers* | 7 | *will be added* |
 | 12/2 | Laura (<a href="https://arxiv.org/pdf/1904.01596" target="_blank">Demszky et al., 2019</a>) | *Polarization on Social Media (Mass Shootings)* | 8 | *will be added* |
