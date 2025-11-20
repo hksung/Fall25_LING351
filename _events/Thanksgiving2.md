@@ -4,4 +4,4 @@ date: 2025-11-25
 description: 'Independent study'
 hide_from_announcments: true
 ---
-Please review the presentation [materials](https://hksung.github.io/Fall25_LING351/project/) on your own to prepare for the final exam.
+Please review the presentation [materials](https://hksung.github.io/Fall25_LING351/project/) to prepare for the final.
